@@ -1,9 +1,7 @@
 ﻿using DevBoard.Api.Dtos;
 using DevBoard.Api.DTOs;
 using DevBoard.Api.Models;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics.CodeAnalysis;
 
 namespace DevBoard.Api.Controllers
 {
